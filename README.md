@@ -51,5 +51,5 @@ ruby app.rb
 ```
 
 ## License  
-Copyright (c) 2016 Krystan Menne, Lauryn Davis, Jeff Seymour, Mike Mahoney
+Copyright (c) 2016 Krystan Menne, Lauryn Davis, Jeff Seymour, Mike Mahoney  
 This software is licensed under the MIT license.
