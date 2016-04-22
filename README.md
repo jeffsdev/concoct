@@ -22,7 +22,7 @@
 
 
 ## Technologies Used
-Ruby, HTML, CSS, JavaScript/jQuery, PostgreSQL, ActiveRecord, rspec, capybara, sinatra.
+Ruby, HTML, CSS, JavaScript/jQuery, PostgreSQL, ActiveRecord, RSpec, Capybara, Sinatra.
 
 ## Setup
 #### Initial Steps
@@ -51,5 +51,5 @@ ruby app.rb
 ```
 
 ## License  
-Copyright (c) 2016 Krystan Menne  
+Copyright (c) 2016 Krystan Menne, Lauryn Davis, Jeff Seymour, Mike Mahoney
 This software is licensed under the MIT license.
